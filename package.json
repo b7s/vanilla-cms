@@ -1,1 +1,25 @@
-{"name":"vanilla-cms-install","version":"0.8.0","description":"Quickly start a Vanilla CMS project, whether back-end or front-end","main":"index.js","scripts":{"start":"node index.js"},"repository":{"type":"git","url":"git+https:\/\/github.com\/b7s\/vanilla-cms.git"},"keywords":["vanillacms","cms","vanilla","pdm"],"author":"Bruno Tenorio Souza","license":"MIT","bugs":{"url":"https:\/\/github.com\/b7s\/vanilla-cms\/issues"},"homepage":"https:\/\/github.com\/b7s\/vanilla-cms#readme"}
+{
+  "name": "vanilla-cms-install",
+  "version": "0.8.0",
+  "description": "Quickly start a Vanilla CMS project, whether back-end or front-end",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https:\/\/github.com\/b7s\/vanilla-cms.git"
+  },
+  "keywords": [
+    "vanillacms",
+    "cms",
+    "vanilla",
+    "pdm"
+  ],
+  "author": "Bruno Tenorio Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https:\/\/github.com\/b7s\/vanilla-cms\/issues"
+  },
+  "homepage": "https:\/\/github.com\/b7s\/vanilla-cms#readme"
+}

@@ -8,6 +8,14 @@
 
 Download this project and execute the script:
 
+Mac:
+```sh
+npm i vanilla-cms & cd node_modules/vanilla-cms & npm start
+```
+
+
+Windows:
+
 ```sh
 npm i vanilla-cms | cd node_modules/vanilla-cms | npm start
 ```
